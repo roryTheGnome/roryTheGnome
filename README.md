@@ -1,17 +1,37 @@
-## Hi there 👋
-<h1 align="center">Hey 👋What's Up?</h1>
+### `> whoami`
 
-<!--
-**roryTheGnome/roryTheGnome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  🤖 Name: Rory The Gnome  
+  💻 Role: Student-Intern-Full Time Problem Solver Part Time Problem Creater
+  🗺️ Location: Naboo  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+> stats --show_card
+```
+
+```text
+┌──────────────────────────────────────┐
+│     DEV TRADING CARD: RoryTheGnome   │
+├──────────────────────────────────────┤
+│ Class: Bug Slayer                    │
+│ Skills:                              │
+│  1) Sacred Reboot Ritual          +4 │
+│  2) Stack Overflow Sorcery        +2 │
+│  3) Rubber Duck Communion         +3 │
+│  4) Printline Whisperer           +2 │
+│  5) Cold Brew Endurance           +5 │
+│ HP: Extreme Coffee                   │
+│ Quest: Vibe                          │
+│ Rare Move: idk.exe – Summons chaos   │
+└──────────────────────────────────────┘
+```
+```bash
+> activity --graph
+```
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roryTheGnome&theme=github-dark)
+```bash
+> exit
+```
+```bash
+Process finished with exit code 42
