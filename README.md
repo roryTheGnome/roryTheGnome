@@ -2,7 +2,7 @@
 
 
   🤖 Name: Rory The Gnome  
-  💻 Role: Student-Intern-Full Time Problem Solver Part Time Problem Creater
+  💻 Role: Student-Intern-Full Time Problem Solver Part Time Problem Creater  
   🗺️ Location: Naboo  
 
 ```bash
