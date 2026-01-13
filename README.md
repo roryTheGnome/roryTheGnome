@@ -3,7 +3,7 @@
 
   🤖 Name: Rory The Gnome  
   💻 Role: Student @ Polish-Japanese Academy of Information Technology - Intern @ Innowise
-  🗺️ Location: Naboo  
+  
 
 ```bash
 > stats --show_card
